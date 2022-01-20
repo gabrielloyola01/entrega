@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #108447;
+    height: 200px;
+    text-align: center;
+
+}
+
+.headerpadre{
+   position: relative;
+
+}
+
+.headerimagen{
+    height: 50px;
+   
+}
+
+.headerimagen img{
+    height: 100%;
+    margin: 60px;
+    
+}
+
+.whatsapp{
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+}
+nav{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    height: 50px;
+    background-color: #61b160
+    
+}
+
+nav ul{
+    list-style: none;
+
+    
+}
+
+nav ul li{
+    display: inline-block;
+    width: 10%;
+    height: 50px;
+    
+}
+
+nav ul li a{
+    color: #edfe8c;
+    text-decoration: none;
+    display: block;
+    padding-top: 10%;
+    height: 37px;
+}
+
+nav ul li a:hover{
+    background-color: #0ccf67;
+}
+h1{
+    margin: 50px;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+p{
+    color: rgb(0, 0, 0);
+    margin: 15px;
+    text-align: center;
+    bottom: 30px;
+}
+
+main{
+    background-color: #ffffff;
+
+}
+
+main{
+    text-align: center;
+}
+
+footer{
+    background-color: #61b160;
+   
+}
+
+.footer1{
+    text-align: left;
+}
+
+.footer2{
+    text-align: left;
+}
